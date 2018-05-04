@@ -1,0 +1,382 @@
+2018/05/04 06:45:51 [error] 5#5: *1143 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#4 /var/www/api.b...
+PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illumi
+2018/05/04 06:45:51 [error] 8#8: *1145 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#4 /var/www/api.b...
+PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illumi
+2018/05/04 06:48:52 [error] 8#8: *1160 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#4 /var/www/api.b...
+PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illumi
+2018/05/04 06:48:52 [error] 7#7: *1162 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#4 /var/www/api.b...
+PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illumi
+2018/05/04 07:11:58 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:11:58 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:11:59 [error] 7#7: *1181 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:11:59 [error] 7#7: *1181 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:11:59 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:00 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:00 [error] 7#7: *1181 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:00 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:01 [error] 7#7: *1181 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:01 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:01 [error] 7#7: *1181 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:01 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:01 [error] 7#7: *1181 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:01 [error] 8#8: *1179 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:02 [error] 7#7: *1181 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:58 [error] 5#5: *1196 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:58 [error] 5#5: *1196 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:12:58 [error] 6#6: *1198 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
+2018/05/04 07:15:14 [error] 6#6: *1201 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#4 /var/www/api.b...
+PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illumi
+2018/05/04 07:15:15 [error] 5#5: *1203 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#4 /var/www/api.b...
+PHP message: PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php:123
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/optimus/heimdal/src/ExceptionHandler.php(91): Optimus\Heimdal\ExceptionHandler->generateExceptionResponse(Object(Illuminate\Http\Request), Object(ErrorException))
+#1 /var/www/api.blackdev.in/vendor/apiato/core/Exceptions/Handlers/ExceptionsHandler.php(22): Optimus\Heimdal\ExceptionHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /var/www/api.blackdev.in/app/Ship/Exceptions/Handlers/ExceptionsHandler.php(63): Apiato\Core\Exceptions\Handlers\ExceptionsHandler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Ship\Exceptions\Handlers\ExceptionsHandler->render(Object(Illumi
+2018/05/04 07:15:17 [error] 6#6: *1205 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers....
+PHP message: PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:767
+Stack trace:
+#0 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(767): ReflectionClass->__construct('view')
+#1 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build('view')
+#2 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve('view', Array)
+#3 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(740): Illuminate\Container\Container->make('view', Array)
+#4 /var/www/api.blackdev.in/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /var/www/api.blackdev.i
